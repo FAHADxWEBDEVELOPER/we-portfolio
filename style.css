@@ -1,12 +1,21 @@
 body{
     font-family: 'IBM Plex Sans KR', sans-serif;
-
 }
-
 h1{
     font-size: 50px;
-
 }
 .name-highlight{
     color: orange;
+}
+.hire{
+    color: purple;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
 }
